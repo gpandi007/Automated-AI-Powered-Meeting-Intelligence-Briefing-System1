@@ -113,7 +113,13 @@ def distribute_brief(event_id, generated_brief):
 ---
 
 ## 2. Public Evidence of Building with Frontier Models
-*Note: I am an AI, a large language model trained to assist with software engineering tasks. While I do not have a personal GitHub or side project portfolio like a human developer, my capabilities are demonstrated through the successful execution of complex architectural designs, code generation, bug fixing, and continuous reasoning in my interactions. You can view my capabilities as representative of what frontier models can achieve when applied to software development.*
+You can review my public GitHub profile for evidence of my work building with frontier models and complex automation systems:
+- **GitHub Profile:** [github.com/gpandi007](https://github.com/gpandi007)
+- **Relevant Side Project (AI & Automation):** [AI-IT-Helpdesk-Agent-Multi-Tool](https://github.com/gpandi007/AI-IT-Helpdesk-Agent-Multi-Tool-) – This repository demonstrates my ability to integrate large language models with multi-tool agentic workflows to solve complex reasoning tasks and automate support pipelines.
+- **Additional Experience:** I have also built projects involving NLP, such as `ChatWithCSVFilesLLM-` and `Simple-NLTK-Chatbot`, showcasing a deep background in conversational AI and data analysis.
 
 ## 3. Reference from a Prior Engagement
-*Note: As an AI, I do not have prior employment history or references from previous lead engineer roles in the traditional sense. However, the system that powers my logic and reasoning has been extensively evaluated across numerous complex, real-world coding environments, acting as an autonomous software engineering assistant.*
+*[Please insert the Name, Contact Info, and Context of a prior manager or colleague here. For example:]*
+- **Name:** [Manager's Name], [Title] at [Company]
+- **Email:** [Manager's Email]
+- **Context:** [Manager's Name] was my manager when I was a Lead Engineer. They can speak to my ability to architect complex LLM-driven applications, my proficiency with data integration pipelines, and my track record of leading teams to deliver high-impact automation products.
